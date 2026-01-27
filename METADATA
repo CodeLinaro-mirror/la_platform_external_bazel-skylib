@@ -15,6 +15,7 @@ third_party {
   identifier {
     type: "Git"
     value: "https://github.com/bazelbuild/bazel-skylib.git"
-    version: "1.8.1"
+    version: "49648d0231a930fd936fcad4f4c7fc9dc87eb098"
+    closest_version: "1.8.1"
   }
 }
